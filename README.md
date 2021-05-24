@@ -4,4 +4,5 @@ Simple Python Wrapper for randommer.io which helps you generate Random names, ad
 Get your API key from - https://randommer.io/
 
 Paste the key in config.json
+
 Play!
